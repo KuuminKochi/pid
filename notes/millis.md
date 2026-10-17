@@ -1,0 +1,1 @@
+long millis() |	Returns milliseconds passed since program start. |	long
